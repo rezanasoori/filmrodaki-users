@@ -17,7 +17,8 @@
   },
   "80997571": {
     "search_count": 4,
-    "invited": 0
+    "invited": 0,
+    "inactive": true
   },
   "86913665": {
     "search_count": 9487,
@@ -25,7 +26,8 @@
   },
   "91162657": {
     "search_count": 6,
-    "invited": 0
+    "invited": 0,
+    "inactive": true
   },
   "93609119": {
     "search_count": 6,
@@ -77,7 +79,8 @@
   },
   "211891308": {
     "search_count": 3,
-    "invited": 0
+    "invited": 0,
+    "inactive": true
   },
   "217067867": {
     "search_count": 6,
